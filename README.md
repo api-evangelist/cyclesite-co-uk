@@ -1,4 +1,4 @@
-# cyclesite-co-uk
+# Cyclesite
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-cyclesite-co-uk is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://cyclesite.co.uk/
+Cyclesite is the UK’s bike‑only online marketplace, founded in 2025, that connects private sellers and bike shops with buyers of used bicycles. It offers free frame‑number checks against a stolen‑bike registry, AI‑assisted valuations based on real UK market data, and a suite of tools for safe buying and selling. Operated by TPSTORES LIMITED, the platform emphasizes trust, safety, and community, providing guides, forums, and a feedback channel for cyclists across the UK.
+
+**Areas:** Bike Marketplace · Used Bikes · UK · Marketplace · Community
+
+## Cyclesite on APIs.io
+
+Everything profiled for Cyclesite is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cyclesite-co-uk/](https://apis.io/providers/cyclesite-co-uk/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Cyclesite Public API](https://apis.io/apis/cyclesite-co-uk/cyclesite-public-api/) — Public API for Cyclesite – used bicycle marketplace, no authentication required.
+- [Cyclesite MCP API](https://apis.io/apis/cyclesite-co-uk/cyclesite-co-uk-mcp-api-api/) — The MCP API API from Cyclesite — 16 operation(s) for mcp api.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Cyclesite Co Uk Agentic Access](https://apis.io/agentic-access/cyclesite-co-uk/cyclesite-co-uk-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Cyclesite API Rules](https://apis.io/rules/cyclesite-co-uk/cyclesite-co-uk-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cyclesite Co Uk Domain Security](https://apis.io/security/cyclesite-co-uk/cyclesite-co-uk-domain-security/)
+- [Cyclesite Co Uk Vulnerability Disclosure](https://apis.io/security/cyclesite-co-uk/cyclesite-co-uk-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cyclesite.co.uk/)
+- [Documentation](https://www.cyclesite.co.uk/about)
+- [API reference](https://www.cyclesite.co.uk/llms-full.txt)
+- [Pricing](https://www.cyclesite.co.uk/sell-your-bike)
+- [Support](https://www.cyclesite.co.uk/help)
+- [Blog](https://www.cyclesite.co.uk/blog)
+- [Security](https://www.cyclesite.co.uk/security-policy)
+- [Trust centre](https://www.cyclesite.co.uk/trust)
+- [Terms of service](https://www.cyclesite.co.uk/legal/terms)
+- [Privacy policy](https://www.cyclesite.co.uk/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 48.9** — developing · rubric 0.26.0 · scored 2026-11-05
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 41.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 52.6 |
+
+**Agent readiness 46.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cyclesite-co-uk/](https://apis.io/providers/cyclesite-co-uk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cyclesite: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cyclesite-co-uk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
